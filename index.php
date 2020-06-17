@@ -1,0 +1,4 @@
+<?
+echo 'say hello';
+
+?>
